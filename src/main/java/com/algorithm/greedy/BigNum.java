@@ -9,7 +9,7 @@ public class BigNum {
      * @param m 총 더하기 횟수
      * @param k 동일한 숫자의 연속 더하기 횟수
      * @param numbers
-     * @return
+     * @return 합산 결과
      */
     public int execute (int n, int m, int k, Integer[] numbers) {
 
